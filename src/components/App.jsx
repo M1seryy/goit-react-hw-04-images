@@ -1,6 +1,6 @@
 import Loader from './Loader/Loader';
 import Searchbar from './Searchbar/Searchbar';
-import React, { Component, useEffect, useState } from 'react';
+import React, {  useEffect, useState } from 'react';
 import ImageGallery from './ImageGallery/ImageGallery';
 import { getImagesBySearch } from 'api/images';
 
