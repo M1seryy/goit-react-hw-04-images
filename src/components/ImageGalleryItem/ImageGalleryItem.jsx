@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{Component} from 'react';
 import Modal from 'components/Modal/Modal';
 
 class ImageGalleryItem extends Component {
