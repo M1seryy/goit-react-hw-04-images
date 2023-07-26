@@ -21,7 +21,6 @@ const App = () => {
   };
   const onInputHandler = e => {
     setInputText(e.target.value);
-    console.log(this.state.inputText);
   };
 
   const getImages = async (search, page) => {
